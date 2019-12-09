@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "7a9b8bb55b2e6e0bef8a7e052d1cd80689b1f436",
+    "author": "rOpenSci Bot <myrmecocystus+ropenscibot@gmail.com>",
+    "time": "2019-12-09 19:20:51",
+    "files": 1,
+    "merge": false,
+    "message": "Add links to official docs site.\nFor more details: https://ropensci.org/technotes/2019/06/07/ropensci-docs/\n"
+  },
+  "remote": "https://github.com/ropensci/rperseus",
+  "pkg": "rperseus"
+}
