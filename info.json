@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "934698cd9dbf2f6923a78d5e581bfa4feba99bbf",
+    "author": "David Ranzolin <daranzolin@gmail.com>",
+    "time": "2023-06-02 00:21:47",
+    "files": 1,
+    "merge": false,
+    "message": "Delete .DS_Store"
+  },
+  "repo": "https://github.com/ropensci/rperseus",
+  "pkg": "rperseus"
+}
